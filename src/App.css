@@ -1,0 +1,17 @@
+.App{
+  background: #fff;
+  display: flex;
+  flex-wrap: wrap;
+}
+.imagegrid{
+  flex-grow: 3;
+  width: 20%;
+  padding: 10px;
+}
+.header{
+  text-align: center;
+  font:italic 50px tahoma;
+  border-bottom: 2px solid black;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
